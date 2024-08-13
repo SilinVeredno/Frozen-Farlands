@@ -9,7 +9,7 @@
     "armor": 3,
     rotateSpeed: 1.5
     "itemCapacity": 70,
-  "outlineColor": "b2b8c2",
+  "outlineColor": "25262B",
     "engineOffset": 12,
     engineSize: 5
     "faceTarget": true,
